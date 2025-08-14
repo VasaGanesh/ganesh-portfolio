@@ -4,8 +4,8 @@ const Education = () => {
   const data = [
     {
       degree: 'Master of Science in Computer Science',
-      university: 'University of North Carolina, Charlotte',
-      duration: 'Aug 2023 - Dec 2024',
+      university: 'University of North Carolina at Charlotte',
+      duration: 'Jan 2024 - May 2025',
       gpa: '3.9/4.0'
     },
     {
